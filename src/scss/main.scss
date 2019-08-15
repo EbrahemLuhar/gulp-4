@@ -1,0 +1,9 @@
+@import 'variables';
+@import 'header';
+
+body {
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
